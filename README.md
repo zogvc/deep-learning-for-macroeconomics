@@ -1,3 +1,3 @@
-# Startups Analysis
+# Nonlinear Vector Autoregression for Macroeconomic Data
 
-A short term project on analysis of start-ups in Korea.
+
